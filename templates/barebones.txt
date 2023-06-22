@@ -1,8 +1,6 @@
 {% extends "template.html" %}
 {% block title %}
-Site
 {% endblock %}
 {% block content %}
-
 <h1>welcome to the main page :&#41;</h1>
 {% endblock %}
